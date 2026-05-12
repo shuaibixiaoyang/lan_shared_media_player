@@ -1,4 +1,4 @@
-# Luma Player 需求文档
+# README
 
 ## 1. 文档目标
 
