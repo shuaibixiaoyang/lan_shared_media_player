@@ -1,0 +1,4 @@
+qt.multimedia.ffmpeg: Using Qt multimedia with FFmpeg version 7.1.2 LGPL version 2.1 or later
+[PlayerController] selected audio config: sampleRate= 48000 channels= 2 sampleFormat= Int16
+[PlayerController] QAudioSink format: sampleRate= 48000 channels= 2 sampleFormat= Int16
+[VideoWidget] shader program linked successfully
