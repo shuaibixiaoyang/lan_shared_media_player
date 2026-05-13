@@ -1,0 +1,39 @@
+# Build outputs
+build/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+!CMakeLists.txt
+!CMakePresets.json
+
+# Qt Creator local state
+.qtcreator/
+.qtcreator_backup/
+*.user
+*.user.*
+
+# Runtime logs
+*.log
+runtime_debug.log
+player_stdout.log
+player_stderr.log
+
+# Local media samples and converted files
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.mp3
+*.aac
+*.player.mp4
+
+# Windows temporary/download files
+*.crdownload
+Thumbs.db
+Desktop.ini
+
+# Local deployment/runtime folders
+deploy/
+received_media/
